@@ -151,6 +151,10 @@ body {
   border-top: 1px solid #ccc;
   padding: 20px 0;
 }
+
+.social a {
+  text-decoration: none;
+}
 .social i{
   color: white;
   text-decoration: none;
